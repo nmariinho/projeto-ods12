@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nome": "aluno teste",
+    "email": "testealuno@testado.com",
+    "senha": "00000000",
+    "telefone": "(11) 99999-9999",
+    "cidade": "Rio de Janeiro"
+  }
+]

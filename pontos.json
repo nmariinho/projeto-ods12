@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Ecoponto Central",
+    "cep": "12345-678",
+    "endereco": "Av. Principal, 100 - Centro",
+    "tipoResiduo": "Eletrônicos e Pilhas"
+  },
+  {
+    "id": 2,
+    "nome": "Recicla Bairro",
+    "cep": "98765-432",
+    "endereco": "Rua da Reciclagem, 50 - Vila Verde",
+    "tipoResiduo": "Óleo de Cozinha e Plástico"
+  }
+]
